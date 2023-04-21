@@ -1,0 +1,46 @@
+
+ ----------
+ Start Test 
+
+Current url: https://www.dns-shop.ru/
+Click Login icon
+Click Login button under icon
+Click Enter with password button
+Input username
+Input password
+Click Login button
+Click Login icon
+Nickname: Test Testov
+Good value word
+---
+Click accessories and services
+---
+Current url: https://www.dns-shop.ru/catalog/c644002fc427e92e/aksessuary-i-uslugi/
+Аксессуары и услуги
+Good value word
+Click Computers and laptops
+---
+Current url: https://www.dns-shop.ru/catalog/5928a1ab187ffa91/aksessuary-dlya-kompyuterov-i-noutbukov/
+Аксессуары для компьютеров и ноутбуков
+Good value word
+Click USB flash drives and hard drives
+---
+Current url: https://www.dns-shop.ru/catalog/6fd3546b14220c43/usb-fleshki-i-zhestkie-diski/
+USB Флешки и жесткие диски
+Good value word
+Click USB flash drives
+---
+Current url: https://www.dns-shop.ru/catalog/ce3bebe8448b4e77/usb-flash/?virtual_category_uid=fee8309e20e5484a
+Good value url
+Input max price
+Click kingston check box
+Click case design button
+Click monolith with cap check box
+Click filters submit button
+Current url: https://www.dns-shop.ru/catalog/ce3bebe8448b4e77/usb-flash/?price=299-7000&brand=kingston&f%5B5dd%5D=1rm8
+Good value url
+Click selected product buy button
+ 
+ Need phone number verification 
+ Test Finished 
+ ----------

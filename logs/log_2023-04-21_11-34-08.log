@@ -1,0 +1,99 @@
+
+-----
+Test: tests/test_buy_product.py::test_buy_product (call)
+Start time: 2023-04-21 11:34:10.242326
+Start name method: Authentication
+
+End time: 2023-04-21 11:34:27.913355
+End name method: Authentication
+URL: https://www.dns-shop.ru/
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_product (call)
+Start time: 2023-04-21 11:34:27.913355
+Start name method: Open catalog
+
+End time: 2023-04-21 11:34:33.761937
+End name method: Open catalog
+URL: https://www.dns-shop.ru/catalog/c644002fc427e92e/aksessuary-i-uslugi/
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_product (call)
+Start time: 2023-04-21 11:34:33.762937
+Start name method: Select for computers and laptops
+
+End time: 2023-04-21 11:34:38.088233
+End name method: Select for computers and laptops
+URL: https://www.dns-shop.ru/catalog/5928a1ab187ffa91/aksessuary-dlya-kompyuterov-i-noutbukov/
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_product (call)
+Start time: 2023-04-21 11:34:38.089233
+Start name method: Select usb flash drives and hard drives
+
+End time: 2023-04-21 11:34:39.927707
+End name method: Select usb flash drives and hard drives
+URL: https://www.dns-shop.ru/catalog/6fd3546b14220c43/usb-fleshki-i-zhestkie-diski/
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_product (call)
+Start time: 2023-04-21 11:34:39.928706
+Start name method: Select usb flash drives and hard drives
+
+End time: 2023-04-21 11:34:42.612750
+End name method: Select usb flash drives and hard drives
+URL: https://www.dns-shop.ru/catalog/ce3bebe8448b4e77/usb-flash/?virtual_category_uid=fee8309e20e5484a
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_product (call)
+Start time: 2023-04-21 11:34:42.613749
+Start name method: Select filters
+
+End time: 2023-04-21 11:34:52.465988
+End name method: Select filters
+URL: https://www.dns-shop.ru/product/4f6c6f4802043332/pamat-usb-flash-256-gb-kingston-datatraveler-exodia-dtx256gb/
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_product (call)
+Start time: 2023-04-21 11:34:52.466988
+Start name method: Product save values and add to cart
+
+End time: 2023-04-21 11:35:01.016618
+End name method: Product save values and add to cart
+URL: https://www.dns-shop.ru/cart/
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_product (call)
+Start time: 2023-04-21 11:35:01.017618
+Start name method: Check values and checkout
+
+End time: 2023-04-21 11:35:01.601365
+End name method: Check values and checkout
+URL: https://www.dns-shop.ru/cart/
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_product (call)
+Start time: 2023-04-21 11:35:01.602364
+Start name method: Final checkout
+
+End time: 2023-04-21 11:35:12.149711
+End name method: Final checkout
+URL: https://www.dns-shop.ru/checkout-main/
+
+-----
