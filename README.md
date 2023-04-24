@@ -1,5 +1,5 @@
-# Selenium_DNSMarket_test_project \n
-#Task: create an autotest, with Pyrhon+Selenium, to test the full "business path" for a client to buy any product from the catalog. 
+# Selenium_DNSMarket_test_project 
+#Task: create an autotest, with Pyrhon+Selenium, to test the full "business path" for a client to buy any product from the catalog. \n
 #Due to the fact that I have no connection with the developers of the site, the test was compiled only till the ordering page, namely, entering the SMS sent to the phone number.
 #The "base" folder stores methods applied to any page of the site
 #The "pages" folder contains .py documents for each individual page of the site, with its own locators, getas and methods
